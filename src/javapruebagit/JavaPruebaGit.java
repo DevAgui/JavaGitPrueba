@@ -17,6 +17,8 @@ public class JavaPruebaGit {
         // TODO code application logic here
         
         System.out.print("Hola mundo"); 
+        System.out.print("Esta es otra linea para comprobar que funcione el add!"); 
+        
     }
     
 }
